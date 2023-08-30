@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Master student in Computer Science at Columbia University.
 
 profile:
   align: left
   image: jiting.JPG
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
