@@ -7,8 +7,7 @@ first_name: Jiting
 middle_name: 
 last_name: Liu
 email: jl6247@columbia.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Master student in Computer Science at Columbia University.
+description: Master student in Computer Science at Columbia University.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -55,7 +54,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 
