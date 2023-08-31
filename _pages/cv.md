@@ -1,8 +1,8 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /assets/pdf/Jiting_Resume.pdf
 title: vitae
 nav: true
 nav_order: 3
-redirect_to: /assets/pdf/Jiting_Resume.pdf
 ---
+
