@@ -19,11 +19,7 @@ Hi there ðŸ‘‹ I am Jiting Liu, currently a second-year Computer Science Masterâ€
 
 I received my B.Eng. in Computer Science and Technology from [Northeastern University (China) ](https://www.neu.edu.cn/) in 2022. During my bachelor's studies, I was fortunate to work under the supervision of [Prof. Yubin Bao](http://faculty.neu.edu.cn/baoyubin/zh_CN/index.htm) and [Prof. Yang Song](http://people.uncw.edu/songy/).
 
-</div>
-
 ---
-
-## 
 
 {% comment %} Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com/){:target="_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
