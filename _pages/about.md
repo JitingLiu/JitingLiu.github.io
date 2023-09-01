@@ -15,13 +15,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-
+<br />
 
 Hi there 👋 I am Jiting Liu, currently a second-year Computer Science Master’s student at [Columbia University](https://www.columbia.edu/), advised by [Prof. Xia Zhou](https://www.cs.columbia.edu/~xia/). My research interests are around ubiquitous and mobile computing, specifically exploring wearable sensors and sensor-based system development.
 
-I received my B.Eng. in Computer Science and Technology from [Northeastern University (China) ](https://www.neu.edu.cn/) in 2022. During my bachelor's studies, I was fortunate to work under the supervision of [Prof. Yubin Bao](http://faculty.neu.edu.cn/baoyubin/zh_CN/index.htm) and [Prof. Yang Song](http://people.uncw.edu/songy/). \\
+I received my B.Eng. in Computer Science and Technology from [Northeastern University (China) ](https://www.neu.edu.cn/) in 2022. During my bachelor's studies, I was fortunate to work under the supervision of [Prof. Yubin Bao](http://faculty.neu.edu.cn/baoyubin/zh_CN/index.htm) and [Prof. Yang Song](http://people.uncw.edu/songy/). 
 
-
+<br />
+<br />
 
 
 ---
@@ -34,3 +35,4 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
+{% endcomment %}
