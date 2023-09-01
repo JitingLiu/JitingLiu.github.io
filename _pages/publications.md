@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: publications
 description: † denotes equal contribution | * denotes corresponding authorship
 nav: true
 nav_order: 1
