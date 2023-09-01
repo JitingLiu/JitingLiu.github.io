@@ -25,6 +25,12 @@ I received my B.Eng. in Computer Science and Technology from [Northeastern Unive
 
 
 
+
+
+
+
+</div>
+
 ---
 
 {% comment %} Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com/){:target="_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
