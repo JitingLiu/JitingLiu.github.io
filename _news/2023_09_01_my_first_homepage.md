@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- My first academic homepage! :smile:
+ My first academic homepage! :sparkles: :smile:
