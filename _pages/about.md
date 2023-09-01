@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master student in Computer Science at Columbia University. <br />
+subtitle: Master student in Computer Science at Columbia University. <br /><br />
 
 profile:
   align: left
@@ -18,6 +18,8 @@ social: false  # includes social icons at the bottom of the page
 Hi there 👋 I am Jiting Liu, currently a second-year Computer Science Master’s student at [Columbia University](https://www.columbia.edu/), advised by [Prof. Xia Zhou](https://www.cs.columbia.edu/~xia/). My research interests are around ubiquitous and mobile computing, specifically exploring wearable sensors and sensor-based system development.
 
 I received my B.Eng. in Computer Science and Technology from [Northeastern University (China) ](https://www.neu.edu.cn/) in 2022. During my bachelor's studies, I was fortunate to work under the supervision of [Prof. Yubin Bao](http://faculty.neu.edu.cn/baoyubin/zh_CN/index.htm) and [Prof. Yang Song](http://people.uncw.edu/songy/). 
+
+<br />
 
 <br />
 
