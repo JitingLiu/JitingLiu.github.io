@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/Jiting_Resume.pdf
+permalink: /assets/pdf/example_pdf.pdf
 title: vitae
 nav: true
 nav_order: 3
