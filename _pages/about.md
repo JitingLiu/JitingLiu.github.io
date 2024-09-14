@@ -17,42 +17,36 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About Me
+Hi there 👋 I am Jiting Liu, currently a research assistant at Microsoft Research Asia, advised by [Prof. Lili Qiu](https://www.microsoft.com/en-us/research/people/liliqiu/). My research interests are around ubiquitous and mobile computing, specifically exploring wearable sensors and sensor-based system development.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I received my master's degree in Computer Science from Columbia University, where I was fortunate to be advised by [Prof. Xia Zhou](https://www.cs.columbia.edu/~xia/). I received my bachelor‘s degree in Computer Science from Northeastern University (China) in 2022.
 
+# News
+- *2024.06*: **“Joey”** wins the Best Paper Award!
+- *2024.03*: Our paper **“Joey”** is accepted to MobiSys 2024!
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# Publications 
+<div style="display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 20px;">
+  <!-- Left: Image -->
+  <div style="flex-basis: 19%; padding-right: 20px;">
+    <img src="images/Joey_MobiSys24.png" style="width: 100%;" alt="Joey MobiSys24">
+  </div>
 
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+  <!-- Right: Text -->
+  <div style="flex-basis: 81%;">
+    <h3 style="margin-top: 0;"> Joey: Supporting Kangaroo Mother Care with Computational Fabrics
+      <a href='https://dl.acm.org/doi/10.1145/3643832.3661867'>[PDF]</a> 
+      <a href='https://youtu.be/67KQlB9G-lk'>[Video]</a>
+    </h3>
+    <p>
+      Qijia Shao, <strong>Jiting Liu</strong>, Emily Bejerano, Ho Man Colman Leung, Jingping Nie, Xiaofan Jiang, and Xia Zhou <br>
+      <em>Proceedings of the 22nd Annual International Conference on Mobile Systems, Applications and Services (MobiSys), June 2024 </em><br>
+      <p style="color: red;">Best Paper Award. People's Choice Demo Award.</p>
+    </p>
+  </div>
 </div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# Internships
+- *2024.03 - 2024.08*, Research Assistant, Wireless Group, Microsoft Research Asia, Shanghai, China.
+- *2022.04 - 2022.07*, Software Engineer Intern, NetEase Games, Hangzhou, China.
